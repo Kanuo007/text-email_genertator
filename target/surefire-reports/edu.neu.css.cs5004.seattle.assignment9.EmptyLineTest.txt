@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.neu.css.cs5004.seattle.assignment9.EmptyLineTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
